@@ -1,0 +1,86 @@
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Crud Employees and Departmets.dll.config
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Crud Employees and Departmets.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Crud Employees and Departmets.pdb
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\csc.exe
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\csc.exe.config
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\csc.rsp
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\csi.exe
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\csi.exe.config
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\csi.rsp
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.AppContext.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Collections.Immutable.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Console.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.IO.Compression.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.IO.FileSystem.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.IO.Pipes.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Reflection.Metadata.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Security.AccessControl.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Security.Claims.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Security.Principal.Windows.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.ValueTuple.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Xml.XPath.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\vbc.exe
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\vbc.exe.config
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\vbc.rsp
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\VBCSCompiler.exe
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\roslyn\VBCSCompiler.exe.config
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Antlr3.Runtime.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Microsoft.Web.Infrastructure.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Newtonsoft.Json.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.Helpers.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.Mvc.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.Optimization.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.Razor.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.WebPages.Deployment.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.WebPages.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.WebPages.Razor.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\WebGrease.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.Helpers.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.Mvc.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.Optimization.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.Razor.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.WebPages.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.WebPages.Deployment.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\System.Web.WebPages.Razor.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Newtonsoft.Json.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Antlr3.Runtime.pdb
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\obj\Debug\Crud Employees and Departmets.csprojAssemblyReference.cache
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\obj\Debug\Crud Employees and Departmets.csproj.CoreCompileInputs.cache
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\obj\Debug\Crud Employees and Departmets.csproj.CopyComplete
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\obj\Debug\Crud Employees and Departmets.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\obj\Debug\Crud Employees and Departmets.pdb
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\EntityFramework.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\EntityFramework.SqlServer.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\EntityFramework.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\EntityFramework.SqlServer.xml
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\CrystalDecisions.CrystalReports.Engine.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\CrystalDecisions.ReportSource.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\CrystalDecisions.Shared.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\log4net.dll
+E:\ahmed\Crud Employees and Departmets\Crud Employees and Departmets\bin\log4net.xml
